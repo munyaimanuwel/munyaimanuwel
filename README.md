@@ -65,7 +65,7 @@ I enjoy working with **C#**, **.NET**, **PostgreSQL**, **Azure**, and modern Dev
 A personal finance tracking application designed to help users monitor expenses, manage budgets, and understand spending habits.
 
 **Tech:** Angular, ASP.NET Core Web API, PostgreSQL, TypeScript  
-🔗 Live: [klevacash.vercel.app](https://budgetwise-mtech.vercel.app)
+🔗 Live: [klevacash.vercel.app](https://klevacash.vercel.app)
 
 ---
 
