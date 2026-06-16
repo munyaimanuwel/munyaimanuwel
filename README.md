@@ -61,11 +61,11 @@ I enjoy working with **C#**, **.NET**, **PostgreSQL**, **Azure**, and modern Dev
 
 ## 🛠️ Projects
 
-### BudgetWise — Personal Finance Tracker
+### KlevaCash — Personal Finance Tracker
 A personal finance tracking application designed to help users monitor expenses, manage budgets, and understand spending habits.
 
 **Tech:** Angular, ASP.NET Core Web API, PostgreSQL, TypeScript  
-🔗 Live: [budgetwise-mtech.vercel.app](https://budgetwise-mtech.vercel.app)
+🔗 Live: [klevacash.vercel.app](https://budgetwise-mtech.vercel.app)
 
 ---
 
