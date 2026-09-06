@@ -71,9 +71,9 @@ A personal finance tracking application designed to help users monitor expenses,
 
 ## 📈 GitHub Stats
 
-![Manuwel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=munyaimanuwel&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)
+![Manuwel's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=munyaimanuwel&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munyaimanuwel&theme=blue_navy&hide_border=false&layout=compact)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=munyaimanuwel&theme=dark)
 
 ---
 
