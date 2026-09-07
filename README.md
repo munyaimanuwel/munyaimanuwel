@@ -71,9 +71,21 @@ A personal finance tracking application designed to help users monitor expenses,
 
 ## 📈 GitHub Stats
 
-![Manuwel's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=munyaimanuwel&theme=dark&v=2)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=munyaimanuwel&theme=dark&v=2)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=munyaimanuwel&theme=github_dark&name=Manuwel" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=munyaimanuwel&theme=default&name=Manuwel" alt="GitHub contribution graph and profile stats" />
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=munyaimanuwel&theme=github-dark-blue&hide_border=true" />
+    <img height="165" src="https://streak-stats.demolab.com?user=munyaimanuwel&theme=github-light&hide_border=true" alt="GitHub streak stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=munyaimanuwel&theme=github_dark&utcOffset=2" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=munyaimanuwel&theme=default&utcOffset=2" alt="Productive time" />
+  </picture>
+</div>
 
 ---
 
