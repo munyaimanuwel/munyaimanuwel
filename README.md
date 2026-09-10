@@ -2,9 +2,9 @@
 
 ## Backend | DevOps Engineer
 
-I'm a software developer focused on building reliable backend systems, APIs, SaaS platforms, data pipelines, and CI/CD-driven infrastructure.
+I'm a software developer focused on building reliable backend systems, APIs, SaaS platforms, and CI/CD-driven infrastructure.
 
-I enjoy working with **C#**, **.NET**, **PostgreSQL**, **Azure**, and modern DevOps tooling to create systems that are scalable, maintainable, and production-ready.
+I work with **C#**, **.NET**, **PostgreSQL**, **RabbitMQ**, **Azure**, **Ansible**, and **GitHub Actions / Azure DevOps** to create systems that are scalable, maintainable, and production-ready. Observability with **Prometheus** and **Grafana** is part of how I ship.
 
 🌐 Portfolio: [manuwel-port.vercel.app](https://manuwel-port.vercel.app)  
 📍 South Africa  
@@ -15,12 +15,12 @@ I enjoy working with **C#**, **.NET**, **PostgreSQL**, **Azure**, and modern Dev
 ## 🚀 What I Do
 
 - Build and maintain backend services using **C# / .NET**
-- Design and develop **RESTful APIs**
+- Design and develop **RESTful APIs** and microservices
 - Work with **PostgreSQL**, **MS SQL Server**, and **MySQL**
-- Implement background processing and messaging with **RabbitMQ**
-- Support **CI/CD pipelines** and automated deployments
-- Work with cloud and infrastructure tools like **Azure**, **Docker**, **Podman**, **Ansible**, and **GitHub Actions**
-- Improve system reliability through logging, monitoring, and observability
+- Implement async messaging with **RabbitMQ** (retries, dead-letter patterns)
+- Own **CI/CD pipelines** (Azure DevOps, GitHub Actions) — build, test, deploy
+- Automate Linux hosts and services with **Ansible**
+- Improve reliability with **Prometheus**, **Grafana**, structured logging, and xUnit tests
 
 ---
 
@@ -32,37 +32,36 @@ I enjoy working with **C#**, **.NET**, **PostgreSQL**, **Azure**, and modern Dev
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
 
-### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
 ### Databases & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
 ### DevOps & Cloud
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### Monitoring
+### Monitoring & Quality
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-2C2D72?style=flat)
 
 ---
 
 ## 🛠️ Projects
 
+### ComposeContract — Compose / config contracts for .NET
+Local-first contract checker for Docker Compose + env keys. Catch missing services and config before runtime. MIT. *(Going public — pin this.)*
+
+**Tech:** C# / .NET 8 · GitHub Actions · xUnit  
+🔗 Repo: [github.com/munyaimanuwel/composecontract](https://github.com/munyaimanuwel/composecontract)
+
 ### KlevaCash — Personal Finance Tracker
-A personal finance tracking application designed to help users monitor expenses, manage budgets, and understand spending habits.
+Personal finance tracking app for expenses and budgets.
 
 **Tech:** Angular, ASP.NET Core Web API, PostgreSQL, TypeScript  
 🔗 Live: [klevacash.vercel.app](https://klevacash.vercel.app)
