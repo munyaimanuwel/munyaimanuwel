@@ -55,10 +55,10 @@ I work with **C#**, **.NET**, **PostgreSQL**, **RabbitMQ**, **Azure**, **Ansible
 ## 🛠️ Projects
 
 ### StackContract — Stack / config contracts for .NET
-Local-first contract checker for Docker Compose + env keys. Catch missing services and config before runtime. MIT. *(Going public — pin this.)*
+Local-first contract checker for Docker Compose + env keys. Catch missing services and config before runtime. MIT.
 
 **Tech:** C# / .NET 8 · GitHub Actions · xUnit  
-🔗 Repo: [github.com/munyaimanuwel/composecontract](https://github.com/munyaimanuwel/composecontract) *(repo rename to `stackcontract` pending)*
+🔗 Repo: [github.com/munyaimanuwel/stackcontract](https://github.com/munyaimanuwel/stackcontract)
 
 ### KlevaCash — Personal Finance Tracker
 Personal finance tracking app for expenses and budgets.
